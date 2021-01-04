@@ -1,3 +1,5 @@
 # ninja log v5
 0	730	631107952	CMakeFiles/CanSocket.dir/src/main/jni/CanSocket.cpp.o	780dcf51193bf198
 733	931	631107952	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libCanSocket.so	4fa3c2ae237d312b
+6	1990	631455251	CMakeFiles/CanSocket.dir/src/main/jni/CanSocket.cpp.o	780dcf51193bf198
+1991	2386	631455252	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libCanSocket.so	4fa3c2ae237d312b

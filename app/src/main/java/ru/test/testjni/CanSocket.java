@@ -101,6 +101,7 @@ public final class CanSocket implements Closeable {
     public final static class CanId implements Cloneable {
         private int _canId = 0;
 
+
         public static enum StatusBits {
             ERR, EFFSFF, RTR
         }
@@ -208,6 +209,11 @@ public final class CanSocket implements Closeable {
                 return false;
             return true;
         }
+    }
+    private int bitrate = 125000;
+    public void setBitrate(int bitrate) {
+        this.bitrate = bitrate;
+        _setBitrate(bitrate);
     }
 
     public final static class CanInterface implements Cloneable {

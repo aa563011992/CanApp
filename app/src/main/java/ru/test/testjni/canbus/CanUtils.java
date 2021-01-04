@@ -36,4 +36,8 @@ public class CanUtils {
         }
     }
 
+    public static void setBitrate(int bitrate) {
+        socket.setBitrate(bitrate);
+    }
+
 }
