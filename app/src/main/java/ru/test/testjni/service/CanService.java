@@ -76,6 +76,7 @@ public class CanService extends Service {
                 parseDataFrame(frame);
             } catch (IOException e) {
                 e.printStackTrace();
+                break;
             } catch (Exception e) {
                 e.printStackTrace();
             }
