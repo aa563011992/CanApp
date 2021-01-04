@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/workspace/CanBusApp-master/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Android\\AndroidSDK\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=D:/Android/AndroidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/AndroidSDK/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DCanSocket_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\CanSocket.dir\\src\\main\\jni\\CanSocket.cpp.o -c F:\\workspace\\CanBusApp-master\\app\\src\\main\\jni\\CanSocket.cpp",
+  "file": "F:/workspace/CanBusApp-master/app/src/main/jni/CanSocket.cpp"
+}
+]

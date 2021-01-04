@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "F:\\workspace\\CanBusApp-master\\app\\CMakeLists.txt",
+    "D:\\Android\\AndroidSDK\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Android\\AndroidSDK\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\workspace\\CanBusApp-master\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\workspace\\CanBusApp-master\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "CanSocket-Release-x86": {
+      "artifactName": "CanSocket",
+      "buildCommand": "D:\\Android\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\workspace\\CanBusApp-master\\app\\.cxx\\cmake\\release\\x86\" CanSocket",
+      "abi": "x86",
+      "output": "F:\\workspace\\CanBusApp-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libCanSocket.so",
+      "runtimeFiles": []
+    }
+  }
+}

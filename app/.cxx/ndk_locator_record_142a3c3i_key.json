@@ -1,0 +1,12 @@
+{
+  "sdkFolder": "D:\\Android\\AndroidSDK",
+  "sideBySideNdkFolderNames": [
+    "17.2.4988734",
+    "20.1.5948944",
+    "21.1.6352462",
+    "android-ndk-r10",
+    "android-ndk-r10e",
+    "android-ndk-r11",
+    "android-ndk-r12b"
+  ]
+}
