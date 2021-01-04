@@ -1,7 +1,9 @@
-The prototype of vehicle dashboard to inform the driver about speed, RPM and other params.
+fork from https://github.com/AlekseiBazhenov/CanBusApp
+Thanks for AlekseiBazhenov's share.
 
-Solution was tested on the industrial computer IOVU-12F connected to the Danfoss controller .
+Try to modify it to a common CANbus plug-in.
 
 Technologies were used:
 - Android NDK (JNI)
 - CanBus socket library
+
